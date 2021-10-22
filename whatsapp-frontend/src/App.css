@@ -1,0 +1,13 @@
+* {
+  font-size: 62.5%;
+  user-select: none;
+}
+
+@media screen and (max-width: 480px) {
+  html {
+    font-size: 45.2%;
+  }
+  /* MuiSvgIcons-root {
+    font-size: medium;
+  } */
+}
